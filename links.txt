@@ -1,4 +1,0 @@
-https://blog.roboflow.com/training-yolov4-on-a-custom-dataset/
-
-
-https://www.mygreatlearning.com/blog/object-detection-in-pytorch/#objectdetectionusingpytorch
