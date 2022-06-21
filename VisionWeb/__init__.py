@@ -13,9 +13,20 @@ sys.path.append("/var/www/FlaskApp/VisionWeb")
 # boilerplate code
 app = Flask(__name__)
 
+
 @app.route("/", methods=["GET"])
 def index():
     return render_template('index.html')
+
+@app.route("/how", methods=["GET"])
+def how():
+    return render_template('how.html')
+
+
+@app.route("/app", methods=["GET", "POST"])
+def appfunction():
+    return render_template('app.html')
+
 
 @app.route('/about', methods=["GET"])
 def about():
