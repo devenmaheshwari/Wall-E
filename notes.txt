@@ -1,4 +1,8 @@
 Help:
 ------
+1. 
+https://github.com/googlesamples/mlkit/tree/master/ios/quickstarts/vision
+
+2. 
 https://medium.com/the-research-nest/build-a-web-app-with-pythons-flask-on-google-colab-in-2-minutes-e2cade485488
 
